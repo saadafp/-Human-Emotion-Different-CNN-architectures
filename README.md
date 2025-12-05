@@ -5,4 +5,6 @@ Human emotion detection in computer vision involves the analysis of facial expre
 This area of research is essential for applications in human-computer interaction, sentiment analysis, personalized systems, and mental health assessment. 
 Using computer vision techniques, it is possible to infer emotions such as happiness, sadness, anger, surprise, and more from facial cues.
 
-Data link : https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes
+## Dataset Source
+- [Human Emotion Recognition Dataset on Kaggle]( https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes)
+- All rights and ownership remain with the original dataset publisher.
